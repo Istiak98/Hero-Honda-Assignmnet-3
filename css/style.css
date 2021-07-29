@@ -1,0 +1,31 @@
+.bg-head{
+    width: 100%;
+    background-color: #264653;
+    overflow-x: hidden;
+}
+.btn-color{
+    background: #E76F51;
+    color: white;
+    border-radius: 2px;
+    padding: 9px 25px;
+    border: none;
+}
+.bg-color1{
+    color: #E76F51;
+}
+.bg-color2{
+    background-color:  #E76F51;
+}
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.f2{
+    color: #E76F51;
+}
+.us{
+    color:#23A6F0
+    ;
+}
+.get{
+    color: white;
+}
